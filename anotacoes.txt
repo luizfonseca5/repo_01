@@ -1,2 +1,3 @@
 minha primeira anotação
 Segunda anotação
+Efetuei uma alteração após ir para uma versão anterior ao repositório.
